@@ -1,0 +1,10 @@
+{
+  "name": "nullserve-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David J. Felix <felix.davidj@gmail.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "docsify-cli": "^4.3.0"
+  }
+}
