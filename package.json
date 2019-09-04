@@ -1,5 +1,5 @@
 {
-  "name": "nullserve-docs",
+  "name": "@nullserve/nullserve-docs",
   "version": "1.0.0",
   "main": "index.js",
   "author": "David J. Felix <felix.davidj@gmail.com>",

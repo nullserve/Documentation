@@ -1,0 +1,2 @@
+- [Welcome](/)
+- [Getting Started](getting_started.md)
