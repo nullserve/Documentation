@@ -9,6 +9,9 @@
     "docsify-cli": "^4.4.0",
     "prettier": "^1.18.2"
   },
+  "scripts": {
+    "build": "echo 0"
+  },
   "prettier": "@nullserve/prettierrc",
   "dependencies": {
     "marked": "^0.7.0"
