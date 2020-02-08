@@ -1,2 +1,2 @@
-- [Welcome](/)
-- [Getting Started](getting_started.md)
+* Essentials
+  - [Getting Started](getting_started.md)
