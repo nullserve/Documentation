@@ -24,8 +24,18 @@ This won't increase your bundle size but will allow you to use it locally when d
 
 Once it's installed, you can use the CLI with:
 
+
+<!-- tabs:start -->
+
+#### ** Yarn **
+
 `yarn run nullserve -h`
 
-or
+#### ** Npm **
 
 `npx nullserve -h`
+
+<!-- tabs:end -->
+
+
+
