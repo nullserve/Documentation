@@ -22,20 +22,19 @@ To install it, run:
 to add it to the project's dev dependencies.
 This won't increase your bundle size but will allow you to use it locally when developing your project.
 
-Once it's installed, you can use the CLI with:
-
+Once it's installed, you can use the CLI like this:
 
 <!-- tabs:start -->
 
 #### ** Yarn **
 
-`yarn run nullserve -h`
+`yarn run nullserve help`
 
 #### ** Npm **
 
-`npx nullserve -h`
+`npx nullserve help`
 
 <!-- tabs:end -->
 
-
-
+This will run the `help` command and test that the CLI is installed correctly.
+The `help` command will also present you with an up-to-date listing of all of the available commands in the CLI.
