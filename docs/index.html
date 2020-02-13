@@ -24,6 +24,7 @@
       :root {
         --sidebar-name-color: #fff;
         --sidebar-name-font-family: futura, system-ui, sans-serif;
+        --sidebar-nav-link-before-content-l3: ;
       }
     </style>
   </head>
@@ -31,13 +32,17 @@
     <div id="app"></div>
     <script>
       window.$docsify = {
+        ga: 'UA-146890565-2',
+        loadSidebar: true,
         name: 'NULLSERVE',
         repo: '',
-        loadSidebar: true,
+        search: 'auto',
         subMaxLevel: 3,
       }
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4.10.2/lib/docsify.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1.1.2/dist/docsify-tabs.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4.10.2/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4.10.2/lib/plugins/ga.min.js"></script>
   </body>
 </html>
