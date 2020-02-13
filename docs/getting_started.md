@@ -55,4 +55,26 @@ Do not check it in to source control or share it with anyone.
 
 ## Creating a Site
 
+A site can be created in the web app.
+
 ## Deploying a Site with the CLI
+
+A site can be deployed using the CLI with the `deploy` command.
+
+<!-- tabs:start -->
+
+#### ** Yarn **
+
+```shell
+export NULLSERVE_API_TOKEN=aBcd3...
+yarn run nullserve deploy ./public
+```
+
+#### ** Npm **
+
+```shell
+export NULLSERVE_API_TOKEN=aBcd3...
+npx nullserve deploy ./public
+```
+
+<!-- tabs:end -->
