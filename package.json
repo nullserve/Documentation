@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@nullserve/prettierrc": "^1.1.0",
-    "docsify-cli": "^4.4.0",
+    "docsify-cli": "4.4.1",
     "prettier": "^1.18.2"
   },
   "scripts": {
